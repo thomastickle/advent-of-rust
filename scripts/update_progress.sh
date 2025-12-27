@@ -9,7 +9,7 @@ for i in {1..25}; do
     
     if [ -f "$FILE" ]; then
         echo "Testing Day ${DAY}..."
-        if cargo test "day${DAY}" --quiet > /dev/null 2>&1; then
+        if cargo test "day${DAY}" --quiet > /dev/null 2>&1 || cargo.exe test "day${DAY}" --quiet > /dev/null 2>&1; then
             STATUS="✅"
         else
             STATUS="❌"

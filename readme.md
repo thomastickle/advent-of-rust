@@ -9,35 +9,35 @@ Advent of Rust is a series of 25 daily coding challenges designed to sharpen Rus
 The project is structured as a single Rust package with solutions organized by day:
 
 - `src/main.rs`: The main entry point that modules all the daily solutions.
-- `src/day01.rs` to `src/day15.rs`: Individual modules containing the implementation and tests for each day's challenge.
+- `src/day01.rs` to `src/day16.rs`: Individual modules containing the implementation and tests for each day's challenge.
 
 ## Progress
 
 - ✅ Day 1: Hello Rust
-- ✅ Day 2: Gift Message (Borrowing)
-- ✅ Day 3: Nice or Naughty (Basic Logic)
-- ✅ Day 4: Niceness Enum
-- ✅ Day 5: CSV Parsing
-- ✅ Day 6: String Comparison
-- ✅ Day 7: Log Query
-- ✅ Day 8: Exporting to File
-- ✅ Day 9: Snowball Conversions (From Trait)
-- ✅ Day 10: Deref Trait
+- ✅ Day 2: Memory doesn't grow on Christmas trees
+- ✅ Day 3: Restoring the Nice List
+- ✅ Day 4: Structifying the Naughty List
+- ✅ Day 5: Parsing naughty-list.csv
+- ✅ Day 6: Blitzen and Snowball's Unproductive Debate
+- ✅ Day 7: The Great Log Hunt
+- ✅ Day 8: Blitzen's Debug Blitz
+- ✅ Day 9: The Snowball Conversion (From Trait)
+- ✅ Day 10: The Deref Trait
 - ✅ Day 11: Location Density (Into Trait)
 - ✅ Day 12: Filtering and Searching Locations
-- ✅ Day 13: Error Handling (Custom Errors)
-- ✅ Day 14: Display Trait
+- ✅ Day 13: Error Handling
+- ✅ Day 14: The Display Trait
 - ✅ Day 15: Gift Wrapping (Traits and Generics)
-- ⬜ Day 16
-- ⬜ Day 17
-- ⬜ Day 18
-- ⬜ Day 19
-- ⬜ Day 20
-- ⬜ Day 21
-- ⬜ Day 22
-- ⬜ Day 23
-- ⬜ Day 24
-- ⬜ Day 25
+- ✅ Day 16: Santa's Perfect Struct
+- ⬜ Day 17: Reindeer Feeding
+- ⬜ Day 18: Snowball Game
+- ⬜ Day 19: Sleigh GPS
+- ⬜ Day 20: Gift Distribution
+- ⬜ Day 21: Reindeer Health
+- ⬜ Day 22: Sleigh Repair
+- ⬜ Day 23: Santa's Route
+- ⬜ Day 24: Christmas Eve
+- ⬜ Day 25: Merry Christmas
 
 ## Getting Started
 
