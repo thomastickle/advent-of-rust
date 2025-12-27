@@ -1,8 +1,10 @@
-name: Rust
+name: Advent of Rust
 
 on:
   push:
     branches: [ "master" ]
+    paths-ignore:
+      - 'readme.md'
   pull_request:
     branches: [ "master" ]
 
@@ -24,10 +26,10 @@ jobs:
     - name: Run tests
       run: cargo test --verbose
     - name: Update progress
-      run: |
-        rustc scripts/update_progress.rs --out-dir scripts
-        ./scripts/update_progress
+      if: always()
+      run: bash scripts/update_progress.sh
     - name: Commit and push changes
+      if: always() && github.ref == 'refs/heads/master'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
