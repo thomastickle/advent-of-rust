@@ -30,7 +30,7 @@ The project is structured as a single Rust package with solutions organized by d
 - ✅ Day 15: Santa's Generic Obsession
 - ✅ Day 16: Santa's Perfect Struct
 - ✅ Day 17: Santa's Email Meltdown
-- ⬜ Day 18: Sleigh builder pattern
+- ✅ Day 18: Sleigh builder pattern
 - ⬜ Day 19: State of the Sleigh
 - ⬜ Day 20: Know Your Status
 - ⬜ Day 21: It's Blitzen again
