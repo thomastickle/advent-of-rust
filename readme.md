@@ -21,23 +21,23 @@ The project is structured as a single Rust package with solutions organized by d
 - ✅ Day 6: Blitzen and Snowball's Unproductive Debate
 - ✅ Day 7: The Great Log Hunt
 - ✅ Day 8: Blitzen's Debug Blitz
-- ✅ Day 9: The Snowball Conversion (From Trait)
-- ✅ Day 10: The Deref Trait
-- ✅ Day 11: Location Density (Into Trait)
-- ✅ Day 12: Filtering and Searching Locations
-- ✅ Day 13: Error Handling
-- ✅ Day 14: The Display Trait
-- ✅ Day 15: Gift Wrapping (Traits and Generics)
+- ✅ Day 9: Snowballs, Traits, and Furious Santa
+- ✅ Day 10: The Deref Debacle
+- ✅ Day 11: Santa's Snowy Algorithm
+- ✅ Day 12: Fixing Santa's Navigator
+- ✅ Day 13: Santa's error handling rant
+- ✅ Day 14: Gifts for Everyone
+- ✅ Day 15: Santa's Generic Obsession
 - ✅ Day 16: Santa's Perfect Struct
-- ⬜ Day 17: Reindeer Feeding
-- ⬜ Day 18: Snowball Game
-- ⬜ Day 19: Sleigh GPS
-- ⬜ Day 20: Gift Distribution
-- ⬜ Day 21: Reindeer Health
-- ⬜ Day 22: Sleigh Repair
-- ⬜ Day 23: Santa's Route
-- ⬜ Day 24: Christmas Eve
-- ⬜ Day 25: Merry Christmas
+- ✅ Day 17: Santa's Email Meltdown
+- ⬜ Day 18: Sleigh builder pattern
+- ⬜ Day 19: State of the Sleigh
+- ⬜ Day 20: Know Your Status
+- ⬜ Day 21: It's Blitzen again
+- ⬜ Day 22: No More Heap Hoardin
+- ⬜ Day 23: The Naughty-Nice Glitch
+- ⬜ Day 24: The 64-Core Sleigh Hustle
+- ✅ Day 25: Thank You!
 
 ## Getting Started
 
