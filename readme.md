@@ -34,8 +34,8 @@ The project is structured as a single Rust package with solutions organized by d
 - ✅ Day 19: State of the Sleigh
 - ✅ Day 20: Know Your Status
 - ✅ Day 21: It's Blitzen again
-- ⬜ Day 22: No More Heap Hoardin
-- ⬜ Day 23: The Naughty-Nice Glitch
+- ✅ Day 22: No More Heap Hoardin
+- ✅ Day 23: The Naughty-Nice Glitch
 - ⬜ Day 24: The 64-Core Sleigh Hustle
 - ✅ Day 25: Thank You!
 
