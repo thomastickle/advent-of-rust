@@ -36,7 +36,7 @@ The project is structured as a single Rust package with solutions organized by d
 - ✅ Day 21: It's Blitzen again
 - ✅ Day 22: No More Heap Hoardin
 - ✅ Day 23: The Naughty-Nice Glitch
-- ⬜ Day 24: The 64-Core Sleigh Hustle
+- ✅ Day 24: The 64-Core Sleigh Hustle
 - ✅ Day 25: Thank You!
 
 ## Getting Started
